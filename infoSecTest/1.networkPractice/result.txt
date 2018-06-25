@@ -1,0 +1,9 @@
+START PORT SCANNING22 port is open
+\begin{tabular}{|r|l|l|}
+\hline
+ssh & open & SA \\
+\hline
+\hline
+\hline
+\end{tabular}
+

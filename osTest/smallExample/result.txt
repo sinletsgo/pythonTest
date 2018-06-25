@@ -1,0 +1,210 @@
+{
+"lastBuildDate": "Mon, 14 May 2018 16:26:56 +0900",
+"total": 20005,
+"start": 1,
+"display": 10,
+"items": [
+{
+"title": "[<b>한국폴리텍대학</b>] 국비지원되는 전문기술과정 소개",
+"link": "http://blog.naver.com/kangseokopo?Redirect=Log&amp;logNo=221199589542",
+"description": "현재 고용노동부 산하 국책특수대학인 <b>한국폴리텍대학</b> 서울강서캠퍼스에서는 2년제학위과정과 함께... 까지 선발방법: 면접 ※ 자세한 내용은 과정별 모집요강 참조 <b>한국폴리텍대학</b> 서울강서캠퍼스의... ",
+"bloggername": "한국폴리텍대학 서울강서캠퍼스",
+"bloggerlink": "http://blog.naver.com/kangseokopo",
+"postdate": "20180202"
+
+},
+{
+"title": "<b>한국폴리텍대학</b> 졸업,중퇴학점 최단기간 4년제학위취득까지!",
+"link": "http://blog.naver.com/ssikossiko?Redirect=Log&amp;logNo=221264878246",
+"description": "<b>한국폴리텍대학</b> 졸업,중퇴학점 최단기간 4년제학위취득까지! 안녕하세요! 오늘은 <b>한국폴리텍대학</b> 졸업,중퇴학점을 전적대학점으로 인정 받고 최단기간에 4년제학위취득 졸업장을 취득할 수 있는 방법을... ",
+"bloggername": "학점열차 뛰뛰쌤 :: 학점은행제 학사학위 자격증정보",
+"bloggerlink": "http://blog.naver.com/ssikossiko",
+"postdate": "20180430"
+
+},
+{
+"title": "<b>한국폴리텍대학</b> 인천캠퍼스, CAMPUS OPEN DAY 개최",
+"link": "http://blog.naver.com/ksg2028?Redirect=Log&amp;logNo=221266768366",
+"description": "있는 <b>한국폴리텍대학</b>에 대해 자세히 알아볼 수 있다. 이번 프로그램은 일반인 및 중·고등학생을 대상으로 <b>한국폴리텍대학</b>의 기술과 인성교육 모델을 일반인에게 널리 소개하는 목적으로 기획됐다. 고도화된... ",
+"bloggername": "365타임즈",
+"bloggerlink": "http://blog.naver.com/ksg2028",
+"postdate": "20180502"
+
+},
+{
+"title": "PLC교육  - <b>한국폴리텍대학</b>김제캠퍼스 직장인 무료교육실시",
+"link": "http://blog.naver.com/b612agape?Redirect=Log&amp;logNo=221271422145",
+"description": "김배수과장님 ***-***-**** <b>한국폴리텍대학</b>김제캠퍼스 직장인 무료교육실시(5월3일 공지) 올해 직장인... (1일3시간, 총6시간) 교육장소 : <b>한국폴리텍대학</b>김제캠퍼스 산학협력관 2층 컴퓨터실/전기실습실",
+"bloggername": "아찌의 소박한 일상",
+"bloggerlink": "http://blog.naver.com/b612agape",
+"postdate": "20180509"
+
+},
+{
+"title": "<b>한국폴리텍대학</b>, 4차 산업혁명시대 대비 학과 신설",
+"link": "http://upgrade-u.tistory.com/3801",
+"description": "대표적인 직업 훈련 교욱을 하고 있는 <b>한국폴리텍대학</b> ! 4 차 산업혁명 시대를 선도할 인력양성에 <b>한국폴리텍대학</b>이 적극적으로 나섰다고 합니다 ! 함께 알아보실까요 ? <b>한국폴리텍대학</b>은 4 차... ",
+"bloggername": "직업능력개발블로그",
+"bloggerlink": "http://upgrade-u.tistory.com/",
+"postdate": "20171026"
+
+},
+{
+"title": "평택시에서 알려드리는 평생학습 안내! &lt;<b>한국폴리텍대학</b>&gt;",
+"link": "http://blog.naver.com/pt_story?Redirect=Log&amp;logNo=221203238833",
+"description": "현재 <b>한국폴리텍대학</b> 안성캠퍼스에서 경기도 시민 중 구직자들을 위한 평생학습 프로그램이... <b>한국폴리텍대학</b>(안성캠퍼스) 홈페이지나 (http://www.kopo.ac.kr/anseong) <b>한국폴리텍대학</b>(안성캠퍼스)를... ",
+"bloggername": "희망평택 (평택시청 공식블로그)",
+"bloggerlink": "http://blog.naver.com/pt_story",
+"postdate": "20180207"
+
+},
+{
+"title": "국비지원무료교육 대구 <b>한국폴리텍대학</b> 섬유패션캠퍼스",
+"link": "http://blog.naver.com/skswldldia?Redirect=Log&amp;logNo=221162395604",
+"description": "국비지원무료교육 대구 <b>한국폴리텍대학</b> 섬유패션캠퍼스 친한 친구가 대학 졸헙 후에 취업되지 않아서... 제가 소개해드리는 국비지원 무료교육은 바로 <b>한국폴리텍대학</b> 섬유패션캠퍼스(대구동구) 하이테크... ",
+"bloggername": "ZE의 소소한 일상★",
+"bloggerlink": "http://blog.naver.com/skswldldia",
+"postdate": "20171213"
+
+},
+{
+"title": "<b>한국폴리텍대학</b> 섬유패션캠퍼스 국비 무료 교육생 모집",
+"link": "http://blog.naver.com/dgdonggu?Redirect=Log&amp;logNo=221193551236",
+"description": "동구 팔공로에 위치한 <b>한국폴리텍대학</b> 섬유패션캠퍼스에서 국비 무료 교육생을 모집합니다. 만... 222 [<b>한국폴리텍대학</b> 섬유패션캠퍼스 희망플러스센터] 자세한 내용은 문의 전화(***-***-****), 혹은 아래... ",
+"bloggername": "대구 동구청 좋아요 블로그",
+"bloggerlink": "http://blog.naver.com/dgdonggu",
+"postdate": "20180125"
+
+},
+{
+"title": "4차 산업혁명 하이테크 과정 <b>한국폴리텍대학</b> 신기술 교육원에서",
+"link": "http://blog.naver.com/playmyworld?Redirect=Log&amp;logNo=221169766180",
+"description": "<b>한국폴리텍대학</b> 신기술원 4차 산업 하이테크 과정 무상교육 소개 글 그림 | 뉴턴의사과 2017년 그리고... 이번에 <b>한국폴리텍 대학</b> 신기술 교육원에서 이렇게 4차 산업혁명에 발맞춰 2018학년도 하이테크... ",
+"bloggername": "뉴턴의사과 IT, 게임, 그리고 육아 이야기",
+"bloggerlink": "http://blog.naver.com/playmyworld",
+"postdate": "20171223"
+
+},
+{
+"title": "[청년정책] 노치백씨가 전해준 <b>한국폴리텍대학</b> 장점~",
+"link": "http://blog.naver.com/we_are_youth?Redirect=Log&amp;logNo=221123914676",
+"description": "<b>한국폴리텍대학</b> 춘천캠퍼스 최근 실용성을 높인 직업 중심의 <b>한국폴리텍대학</b>에 대한 관심이 높아진 것도 이 때문입니다. 83%를 넘어서는 높은 취업률과 92.1%의 취업 유지율이 그것을 증명합니다. 그야말로... ",
+"bloggername": "청년정책사용설명서!",
+"bloggerlink": "http://blog.naver.com/we_are_youth",
+"postdate": "20171024"
+
+}
+]
+}
+
+[{'title': '[<b>한국폴리텍대학</b>] 국비지원되는 전문기술과정 소개', 'link': 'http://blog.naver.com/kangseokopo?Redirect=Log&amp;logNo=221199589542', 'description': '현재 고용노동부 산하 국책특수대학인 <b>한국폴리텍대학</b> 서울강서캠퍼스에서는 2년제학위과정과 함께... 까지 선발방법: 면접 ※ 자세한 내용은 과정별 모집요강 참조 <b>한국폴리텍대학</b> 서울강서캠퍼스의... ', 'bloggername': '한국폴리텍대학 서울강서캠퍼스', 'bloggerlink': 'http://blog.naver.com/kangseokopo', 'postdate': '20180202'}, {'title': '<b>한국폴리텍대학</b> 졸업,중퇴학점 최단기간 4년제학위취득까지!', 'link': 'http://blog.naver.com/ssikossiko?Redirect=Log&amp;logNo=221264878246', 'description': '<b>한국폴리텍대학</b> 졸업,중퇴학점 최단기간 4년제학위취득까지! 안녕하세요! 오늘은 <b>한국폴리텍대학</b> 졸업,중퇴학점을 전적대학점으로 인정 받고 최단기간에 4년제학위취득 졸업장을 취득할 수 있는 방법을... ', 'bloggername': '학점열차 뛰뛰쌤 :: 학점은행제 학사학위 자격증정보', 'bloggerlink': 'http://blog.naver.com/ssikossiko', 'postdate': '20180430'}, {'title': '<b>한국폴리텍대학</b> 인천캠퍼스, CAMPUS OPEN DAY 개최', 'link': 'http://blog.naver.com/ksg2028?Redirect=Log&amp;logNo=221266768366', 'description': '있는 <b>한국폴리텍대학</b>에 대해 자세히 알아볼 수 있다. 이번 프로그램은 일반인 및 중·고등학생을 대상으로 <b>한국폴리텍대학</b>의 기술과 인성교육 모델을 일반인에게 널리 소개하는 목적으로 기획됐다. 고도화된... ', 'bloggername': '365타임즈', 'bloggerlink': 'http://blog.naver.com/ksg2028', 'postdate': '20180502'}, {'title': 'PLC교육  - <b>한국폴리텍대학</b>김제캠퍼스 직장인 무료교육실시', 'link': 'http://blog.naver.com/b612agape?Redirect=Log&amp;logNo=221271422145', 'description': '김배수과장님 ***-***-**** <b>한국폴리텍대학</b>김제캠퍼스 직장인 무료교육실시(5월3일 공지) 올해 직장인... (1일3시간, 총6시간) 교육장소 : <b>한국폴리텍대학</b>김제캠퍼스 산학협력관 2층 컴퓨터실/전기실습실', 'bloggername': '아찌의 소박한 일상', 'bloggerlink': 'http://blog.naver.com/b612agape', 'postdate': '20180509'}, {'title': '<b>한국폴리텍대학</b>, 4차 산업혁명시대 대비 학과 신설', 'link': 'http://upgrade-u.tistory.com/3801', 'description': '대표적인 직업 훈련 교욱을 하고 있는 <b>한국폴리텍대학</b> ! 4 차 산업혁명 시대를 선도할 인력양성에 <b>한국폴리텍대학</b>이 적극적으로 나섰다고 합니다 ! 함께 알아보실까요 ? <b>한국폴리텍대학</b>은 4 차... ', 'bloggername': '직업능력개발블로그', 'bloggerlink': 'http://upgrade-u.tistory.com/', 'postdate': '20171026'}, {'title': '평택시에서 알려드리는 평생학습 안내! &lt;<b>한국폴리텍대학</b>&gt;', 'link': 'http://blog.naver.com/pt_story?Redirect=Log&amp;logNo=221203238833', 'description': '현재 <b>한국폴리텍대학</b> 안성캠퍼스에서 경기도 시민 중 구직자들을 위한 평생학습 프로그램이... <b>한국폴리텍대학</b>(안성캠퍼스) 홈페이지나 (http://www.kopo.ac.kr/anseong) <b>한국폴리텍대학</b>(안성캠퍼스)를... ', 'bloggername': '희망평택 (평택시청 공식블로그)', 'bloggerlink': 'http://blog.naver.com/pt_story', 'postdate': '20180207'}, {'title': '국비지원무료교육 대구 <b>한국폴리텍대학</b> 섬유패션캠퍼스', 'link': 'http://blog.naver.com/skswldldia?Redirect=Log&amp;logNo=221162395604', 'description': '국비지원무료교육 대구 <b>한국폴리텍대학</b> 섬유패션캠퍼스 친한 친구가 대학 졸헙 후에 취업되지 않아서... 제가 소개해드리는 국비지원 무료교육은 바로 <b>한국폴리텍대학</b> 섬유패션캠퍼스(대구동구) 하이테크... ', 'bloggername': 'ZE의 소소한 일상★', 'bloggerlink': 'http://blog.naver.com/skswldldia', 'postdate': '20171213'}, {'title': '<b>한국폴리텍대학</b> 섬유패션캠퍼스 국비 무료 교육생 모집', 'link': 'http://blog.naver.com/dgdonggu?Redirect=Log&amp;logNo=221193551236', 'description': '동구 팔공로에 위치한 <b>한국폴리텍대학</b> 섬유패션캠퍼스에서 국비 무료 교육생을 모집합니다. 만... 222 [<b>한국폴리텍대학</b> 섬유패션캠퍼스 희망플러스센터] 자세한 내용은 문의 전화(***-***-****), 혹은 아래... ', 'bloggername': '대구 동구청 좋아요 블로그', 'bloggerlink': 'http://blog.naver.com/dgdonggu', 'postdate': '20180125'}, {'title': '4차 산업혁명 하이테크 과정 <b>한국폴리텍대학</b> 신기술 교육원에서', 'link': 'http://blog.naver.com/playmyworld?Redirect=Log&amp;logNo=221169766180', 'description': '<b>한국폴리텍대학</b> 신기술원 4차 산업 하이테크 과정 무상교육 소개 글 그림 | 뉴턴의사과 2017년 그리고... 이번에 <b>한국폴리텍 대학</b> 신기술 교육원에서 이렇게 4차 산업혁명에 발맞춰 2018학년도 하이테크... ', 'bloggername': '뉴턴의사과 IT, 게임, 그리고 육아 이야기', 'bloggerlink': 'http://blog.naver.com/playmyworld', 'postdate': '20171223'}, {'title': '[청년정책] 노치백씨가 전해준 <b>한국폴리텍대학</b> 장점~', 'link': 'http://blog.naver.com/we_are_youth?Redirect=Log&amp;logNo=221123914676', 'description': '<b>한국폴리텍대학</b> 춘천캠퍼스 최근 실용성을 높인 직업 중심의 <b>한국폴리텍대학</b>에 대한 관심이 높아진 것도 이 때문입니다. 83%를 넘어서는 높은 취업률과 92.1%의 취업 유지율이 그것을 증명합니다. 그야말로... ', 'bloggername': '청년정책사용설명서!', 'bloggerlink': 'http://blog.naver.com/we_are_youth', 'postdate': '20171024'}]
+
+
+title :[<b>한국폴리텍대학</b>] 국비지원되는 전문기술과정 소개
+
+
+bloggername :한국폴리텍대학 서울강서캠퍼스
+
+
+link : http://blog.naver.com/kangseokopo
+
+
+
+
+title :<b>한국폴리텍대학</b> 졸업,중퇴학점 최단기간 4년제학위취득까지!
+
+
+bloggername :학점열차 뛰뛰쌤 :: 학점은행제 학사학위 자격증정보
+
+
+link : http://blog.naver.com/ssikossiko
+
+
+
+
+title :<b>한국폴리텍대학</b> 인천캠퍼스, CAMPUS OPEN DAY 개최
+
+
+bloggername :365타임즈
+
+
+link : http://blog.naver.com/ksg2028
+
+
+
+
+title :PLC교육  - <b>한국폴리텍대학</b>김제캠퍼스 직장인 무료교육실시
+
+
+bloggername :아찌의 소박한 일상
+
+
+link : http://blog.naver.com/b612agape
+
+
+
+
+title :<b>한국폴리텍대학</b>, 4차 산업혁명시대 대비 학과 신설
+
+
+bloggername :직업능력개발블로그
+
+
+link : http://upgrade-u.tistory.com/
+
+
+
+
+title :평택시에서 알려드리는 평생학습 안내! &lt;<b>한국폴리텍대학</b>&gt;
+
+
+bloggername :희망평택 (평택시청 공식블로그)
+
+
+link : http://blog.naver.com/pt_story
+
+
+
+
+title :국비지원무료교육 대구 <b>한국폴리텍대학</b> 섬유패션캠퍼스
+
+
+bloggername :ZE의 소소한 일상★
+
+
+link : http://blog.naver.com/skswldldia
+
+
+
+
+title :<b>한국폴리텍대학</b> 섬유패션캠퍼스 국비 무료 교육생 모집
+
+
+bloggername :대구 동구청 좋아요 블로그
+
+
+link : http://blog.naver.com/dgdonggu
+
+
+
+
+title :4차 산업혁명 하이테크 과정 <b>한국폴리텍대학</b> 신기술 교육원에서
+
+
+bloggername :뉴턴의사과 IT, 게임, 그리고 육아 이야기
+
+
+link : http://blog.naver.com/playmyworld
+
+
+
+
+title :[청년정책] 노치백씨가 전해준 <b>한국폴리텍대학</b> 장점~
+
+
+bloggername :청년정책사용설명서!
+
+
+link : http://blog.naver.com/we_are_youth
+
+

@@ -1,0 +1,14 @@
+요청 URL:
+
+
+http://192.168.110.116:8060/api/v1/addrecord/1
+
+
+요청Format:
+
+
+{"name": ["ssw", "ssw2"], "received": "ok"}
+
+출력Format:
+
+{"name": ["ssw", "ssw2"], "received": "ok", "author": "ssw"}

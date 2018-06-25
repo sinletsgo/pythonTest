@@ -1,0 +1,55 @@
+8052 님 성공
+<html><head><title>Load Successful</title></head><body><p>This is merely a test.</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8053 님 성공
+<html><head><title>Title goes here.</title></head><body><p>This is a test.</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8054 님 성공
+<html><head><title>Smrt0054 - Euijin Kim</title></head><body><p>May, the queen of seasons!</p><p>You've reached the path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8055 님 서비스 안함
+8056 님 성공
+<html><head><script>function GetJsonData (data) {var parseData = $.parseJSON(data); $(data).each(function (index, item) {alert(item.DisplayName);} }</script> <title>Title goes here.</title></head><body><p>.</p><body><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8057 님 실패
+8058 님 서비스 안함
+8059 님 서비스 안함
+8060 님 성공
+<html><head><title>Title goes here.</title></head><body><p> test</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8061 님 서비스 안함
+8062 님 성공
+<html><head><title>Title goes here.</title></head><body><p>Hello world.</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8063 님 성공
+<html><head><title>Title goes here.</title></head><body><p>This is a test.</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8064 님 성공
+<html><head><title>I am tired.</title></head><body><p>Today is Monday</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8065 님 서비스 안함
+8066 님 서비스 안함
+8067 님 성공
+<html><head><title>Title goes here.</title></head><body><p>................?</p><p>You accessed path: /api/v1/getrecord</p></body></html>HTTP/1.0 400 Bad Request: record does not exist
+Server: BaseHTTP/0.6 Python/3.6.4
+Date: Thu, 03 May 2018 01:13:08 GMT
+Content-Type: application/json
+
+
+------------------------------------------
+8068 님 성공
+<html><head><title>Title goes here.</title></head><body><p>This is a 68_test.</p><p>Hello python</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8069 님 서비스 안함
+8070 님 실패
+8071 님 서비스 안함
+8072 님 서비스 안함
+8073 님 성공
+<html><head><title>Title goes here.</title></head><body><p>Hello python!!</p><p>You accessed path: /api/v1/getrecord</p></body></html>
+------------------------------------------
+8074 님 실패
+8075 님 성공
+<html><head><title>Welcome to the starbucks</title></head><body><p>Partner : Hi there, May I Help you?</p><p>Customer : Can I have a cup of Americano iced?</p></body></html>
+------------------------------------------
+8076 님 서비스 안함
+8077 님 서비스 안함
