@@ -63,7 +63,7 @@ def calculateHashForBlock(block):
     return calculateHash(block.index, block.previousHash, block.timestamp, block.data, block.proof)
 
 def getLatestBlock(blockchain):
-    return blockchain[len(blockchain) - 1]
+    return blockchain[len(blockchain) - 1] #-1 마지막 데이터. 즉 가장 최신 데이터
 
 def generateNextBlock(blockchain, blockData, timestamp, proof):
     previousBlock = getLatestBlock(blockchain)
@@ -117,10 +117,10 @@ def updateTx(blockData) :
 
     phrase = re.compile(r"\w+[-]\w+[-]\w+[-]\w+[-]\w+") # [6b3b3c1e-858d-4e3b-b012-8faac98b49a8]UserID hwang sent 333 bitTokens to UserID kim.
     matchList = phrase.findall(blockData.data) # 정규표현식. re. 레귤러익스프레션 약자. 다 알 수 없다. 필요한것만 (예로 주민번호, 이메일 검출할때 사용) 안쓰고 split로 하면 복잡.
+    # w = word,  즉 word  - 4개  - 있는곳까지 구분된 문자열을 찾아라
     # 구문 findall  트랙잭션데이터만 가져온다. 어떤 포맷? 위에 있는 .
     # 주석처리 처럼 데이터 들어온다.  [6b3b3c1e-858d-4e3b-b012-8faac98b49a8] 이부분 찾아야 비교해서 마킹
-    # - 있는곳까지 찾으라,
-    # 주피터로 해볼수 있다. ppt 59
+    # 주피터로 해볼수 있다. ppt 74
     # 채굴되고 포함되었으면 블록체인 data는 유지해야 하지만 ,
     # txdata 가지고 있을 필요가 없다. 로직이 더 필요. 1로 되있는 상위 몇개 1주일에 한번은 전체 30% 제거한다고 crotab 돌려도 좋지. 아이디어 내보자.
 
@@ -134,7 +134,7 @@ def updateTx(blockData) :
         reader = csv.reader(csvfile)
         writer = csv.writer(tempfile)
         for row in reader:
-            if row[4] in matchList: # matchList 고유아이디 포함되있다.
+            if row[4] in matchList: # matchList 고유아이디 포함되있다. 고유아이디가 key값이고, 이걸로 찾아서 row를 0에서 1로 바꾸는것
                 print('updating row : ', row[4])
                 row[0] = 1  # 0을 1로 바꾸겠다
             writer.writerow(row) # wrtier 덮어쓰고
@@ -159,7 +159,7 @@ def writeTx(txRawData):
 
 
     txDataList = []
-    # file쓰려면 객체 형태로 변환해야하니까. 과정임.
+    # file쓰려면 객체 형태로 변환해야하니까.  과정임.
     for txDatum in txRawData:
         txList = [txDatum.commitYN, txDatum.sender, txDatum.amount, txDatum.receiver, txDatum.uuid]
         txDataList.append(txList)
@@ -207,7 +207,7 @@ def readTx(txFilePath):
 
 def getTxData():
     strTxData = ''
-    importedTx = readTx(g_txFileName) #이젠 txdata를 읽어와서 여기서 만들겠다! , 채굴될떄 포함시키겠다
+    importedTx = readTx(g_txFileName) #이젠 txdata를 읽어와서 여기서 만들겠다! , 즉 거래에데이터를 채굴 될떄 포함시키려고!
     if len(importedTx) > 0 : #받아서 있으면 포함시키겠다!
         for i in importedTx:
             print(i.__dict__)
@@ -262,13 +262,16 @@ def isSameBlock(block1, block2):
 
 
 def isValidNewBlock(newBlock, previousBlock):
+    # previousBlock 처음 제네시스 블락
     if int(previousBlock.index) + 1 != int(newBlock.index): # 이전블락과 new블락의 index가 같지않으면 false ! 같아야 한다!
         print('Indices Do Not Match Up')
         return False
     elif previousBlock.currentHash != newBlock.previousHash: #마찬가지로 hash값도 이전 block 에서 왔어야 검증이 되는거다!
+        # newBlock 에 현재 저장된 previousHash가 곧 이전 previousBlock 에 currentHash 가 되야 하는것! chain으로 연결되니까.
         print("Previous hash does not match")
         return False
-    elif calculateHashForBlock(newBlock) != newBlock.currentHash:
+    elif calculateHashForBlock(newBlock) != newBlock.currentHash: #block 유효성 검증. 즉 Hash값을 비교해서 무결성. 변조되지 않았다는걸 검증하는것.
+        # hash값은 돌아갈 수 없지만, block 데이터를 넣고 hash한 값이랑 비교해서 같으면 같은 데이터로 hash 했음을 아는것!
         print("Hash is invalid")
         return False
     return True
@@ -280,6 +283,7 @@ def newtx(txToMining):
     for line in txToMining:
         # 0 채굴포함여부(포함 1), txToMining 받은걸 그대로
         # UUID는 기본적으로 어떤 개체(데이터)를 고유하게 식별하는 데 사용되는 16바이트(128비트) 길이의 숫자입니다.
+        # data 여기서 변환하고 밑에서 write 할 때 역변환하고
         tx = txData(0, line['sender'], line['amount'], line['receiver'], uuid.uuid4() ) #  uuid 고유번호 떨어진다
         newtxData.append(tx)
 
@@ -288,7 +292,7 @@ def newtx(txToMining):
         print('number of requested tx exceeds limitation')
         return -1
 
-    if writeTx(newtxData) == 0:  # csv 쓰겠다! 이것도 쓰던대로 patten,
+    if writeTx(newtxData) == 0:  # csv 쓰겠다! 이것도 쓰던대로 patten, 역변환
         print("file write error on txData")
         return -2
     return 1
@@ -298,9 +302,8 @@ def isValidChain(bcToValidate):
     bcToValidateForBlock = []
 
     # Read GenesisBlock
-    # GenesisBlock 먼저 검증한다! try 문으로 GenesisBlock만 Block class 생성하고 밑에 isSameBlock에서 검증하는것!
+    # 현재 저장된 GenesisBlock만 불러와서 먼저 검증! 통과되면
     # 그리고 isSameBlock에서 본격적으로 이전 block 과 현재 new block 과 검증하는거다
-
     try:
         with open(g_bcFileName, 'r') as file:
             blockReader = csv.reader(file)
@@ -313,7 +316,7 @@ def isValidChain(bcToValidate):
         pass
 
     # transform given data to Block object
-    for line in bcToValidate: # 매개변수 통해 검증해달라고 post 로 받은 bcToValidate list안에 dict 형식
+    for line in bcToValidate: # 매개변수 통해 검증해달라고 post 로 받은 bcToValidate를 list 안에 dict 형식으로 변환
         # print(type(line))
         # index, previousHash, timestamp, data, currentHash, proof
         # line 이 dict 형식이니까, line['index'] 식으로 key 로 value 접근
@@ -326,6 +329,9 @@ def isValidChain(bcToValidate):
         return False
 
     # compare the given data with genesisBlock
+    # 받은 데이터와, 저장된 block data의 genesisBlock 비교
+    # GenesisBlock이 같으면 통과!
+    # but 버그가 있음. Genesis 만 같게 해놓고 나머진 조작할 수도 있으니까.
     if not isSameBlock(bcToValidateForBlock[0], genesisBlock[0]):
         print('Genesis Block Incorrect')
         return False
